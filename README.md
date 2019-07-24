@@ -2,12 +2,15 @@
 Realize the analysis of housing price in all parts of China.
 
 开发工具：
+
     Python版本：3.6.4，Pycharm IDE
 
 相关模块：
+
     openpyxl模块；requests模块；bs4模块；pyecharts模块；以及一些python自带的模块。
 
 环境搭建：
+
     安装Python并添加到环境变量，pip安装需要的相关模块即可。
 
 原理简介
@@ -32,4 +35,9 @@ Realize the analysis of housing price in all parts of China.
     具体实现细节详见相关文件中的源代码。
 
 数据爬取演示方法：
+
     在terminal窗口运行Spider.py文件后根据提示输入相关的信息即可。
+
+图示：
+
+![image](https://github.com/NickyangPeng/Housing-price-analysis/blob/master/Housing-price-analysis.png)
